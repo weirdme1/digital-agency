@@ -1,0 +1,23 @@
+.level-min-width {
+    min-width: 0 !important;
+}
+
+.level-margin {
+    margin: 20px 0;
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.gold-color {
+    color: #fdcc00;
+}
+
+.yellow-color {
+    color: #cece1b;
+}
+
+.text-logo {
+    color: #fff;
+}
