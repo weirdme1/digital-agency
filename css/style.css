@@ -467,12 +467,12 @@ background: -webkit-linear-gradient(top,#95e5ff 0,#009688 100%);
 background: linear-gradient(to bottom,#95e5ff 0,#009688 100%);}
 .shape-bg3:before{
 content: "";
-background: url(../images/shape/shape-12.svg);
+background: url(../images/img/shape-12.svg);
 position: absolute; height: 100%; width: 100%; opacity: 0.03;}
 /**Hero section**/
 .hero-bg-bg1:before{
 content: "";
-background: url(../images/hero/banner-shap-2.png);
+background: url(../images/img/banner-shap-2.png);
 position: absolute;
 height: 100vh;
 right: 0;
@@ -1794,7 +1794,7 @@ margin-right: 15px;}
 .star-rate li a{    color: #6a6a8e;}
 /**Freelance Homepage**/
 .fl-hero{
-background: url(../images/hero/freelancer.png), url(../images/shape/hero-shape.svg),#ffd6d6;
+/* background: url(../images/hero/freelancer.png), url(../images/shape/hero-shape.svg),#ffd6d6; */
 background-position: center center, center center;
 background-size: cover, cover;
 background-repeat: no-repeat, no-repeat;}
@@ -2387,7 +2387,7 @@ font-size: 90px;
 position: absolute;
 right: 0; left: 0; text-align: center; top: 0; font-weight: 900; text-transform: uppercase; -webkit-text-stroke: 1px #e8e8e8; -webkit-text-fill-color: white;}
 /**business-startup**/
-.business-startup{ background: url(../images/hero/wave-hero.svg); background-repeat: no-repeat; background-position: center top;}
+.business-startup{ background: url(../images/img/wave-hero.svg); background-repeat: no-repeat; background-position: center top;}
 .bg-light-ylo { background: #e9f5ff; }
 .up-curvs{position: absolute; right: 0; left: 0; top: -50px; }
 .bottom-curvs{position: absolute; right: 0; left: 0; bottom: -50px; }
